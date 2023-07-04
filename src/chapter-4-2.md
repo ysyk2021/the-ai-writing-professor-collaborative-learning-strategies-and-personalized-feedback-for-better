@@ -1,4 +1,4 @@
-Challenges of AI in Writing Education - Legal Considerations
+Legal Considerations
 =======================================================================
 
 The integration of AI into writing education presents many opportunities for personalized learning and improved outcomes, but it also raises legal considerations that must be addressed. In this chapter, we will explore some of the legal challenges associated with the use of AI-powered writing tools.

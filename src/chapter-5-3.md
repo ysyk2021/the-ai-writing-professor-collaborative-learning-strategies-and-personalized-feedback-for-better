@@ -1,4 +1,4 @@
-Applications of AI in Writing Education - Content Analysis and Optimization
+Content Analysis and Optimization
 ======================================================================================
 
 AI-powered writing tools and machine learning algorithms have numerous applications in writing education. One of the most promising is content analysis and optimization, which can help students improve their writing skills by analyzing their content and providing personalized feedback. In this chapter, we will explore how AI can be used for content analysis and optimization in writing education.

@@ -1,4 +1,4 @@
-Introduction - Why Utilizing Machine Learning for Writing Feedback is Important
+Why Utilizing Machine Learning for Writing Feedback is Important
 ==========================================================================================
 
 Writing is an essential skill that plays a critical role in education and career development. However, providing effective feedback on writing assignments can be time-consuming and challenging for educators. This is where machine learning comes into play.

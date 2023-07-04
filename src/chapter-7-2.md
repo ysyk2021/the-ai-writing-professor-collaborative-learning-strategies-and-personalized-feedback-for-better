@@ -1,4 +1,4 @@
-Managing AI in Writing Education - Ensuring Transparency and Accountability
+Ensuring Transparency and Accountability
 ======================================================================================
 
 The integration of AI-powered writing tools and machine learning algorithms into writing education can enhance personalized learning and improve writing outcomes. However, it is essential to ensure transparency and accountability when using AI in education. In this chapter, we will explore how to manage AI in writing education while ensuring transparency and accountability.

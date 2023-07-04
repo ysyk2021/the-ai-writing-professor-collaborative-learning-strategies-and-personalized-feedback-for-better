@@ -1,4 +1,4 @@
-Benefits of AI in Writing Education - Increased Accuracy and Effectiveness
+Increased Accuracy and Effectiveness
 =====================================================================================
 
 The integration of AI into writing education offers many benefits, including increased accuracy and effectiveness in providing feedback and suggestions for improvement. In this chapter, we will explore how AI-powered writing tools can enhance the accuracy and effectiveness of writing education.

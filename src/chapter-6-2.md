@@ -1,4 +1,4 @@
-Implementing AI in Writing Education - Overcoming Resistance to Change
+Overcoming Resistance to Change
 =================================================================================
 
 The integration of AI-powered writing tools and machine learning algorithms into writing education can enhance personalized learning and improve writing outcomes. However, resistance to change can be a barrier to successful implementation. In this chapter, we will explore how to overcome resistance to change when implementing AI in writing education.

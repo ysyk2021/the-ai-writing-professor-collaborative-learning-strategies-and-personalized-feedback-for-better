@@ -1,4 +1,4 @@
-Understanding AI in Writing Education - Types of AI in Writing Education
+Types of AI in Writing Education
 ===================================================================================
 
 AI has become an increasingly important tool in writing education, offering a range of applications and benefits. In this chapter, we will explore the different types of AI used in writing education.

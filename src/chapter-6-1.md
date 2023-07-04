@@ -1,4 +1,4 @@
-Implementing AI in Writing Education - Developing an AI Strategy
+Developing an AI Strategy
 ===========================================================================
 
 The integration of AI-powered writing tools and machine learning algorithms into writing education can enhance personalized learning and improve writing outcomes. However, implementing AI in writing education requires a well-defined strategy to ensure that it is successful. In this chapter, we will explore how to develop an AI strategy for writing education.
