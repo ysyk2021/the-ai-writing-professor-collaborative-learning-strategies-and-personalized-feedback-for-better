@@ -39,6 +39,5 @@
   - [Individualized writing goals](chapter-10-1.md)
   - [Real-time feedback and suggestions](chapter-10-2.md)
   - [Customized writing resources](chapter-10-3.md)
-- [Chapter 11: Conclusion](chapter-11.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
