@@ -1,5 +1,4 @@
-Customized Writing Resources
-================================================================================
+
 
 In addition to providing real-time feedback and suggestions for improvement, AI-powered writing tools can also offer customized writing resources tailored to the individual needs of each student. In this chapter, we will explore how customized writing resources can enhance personalized learning and improve writing outcomes.
 

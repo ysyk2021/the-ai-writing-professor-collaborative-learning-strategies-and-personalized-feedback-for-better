@@ -1,5 +1,4 @@
-Chapter 9: Collaborative Learning Strategies
-============================================
+
 
 Collaborative learning strategies are an important aspect of writing education, enabling students to learn from each other and work together to achieve common goals. In this chapter, we will explore some collaborative learning strategies that can be used in conjunction with AI-powered tools to improve writing outcomes.
 

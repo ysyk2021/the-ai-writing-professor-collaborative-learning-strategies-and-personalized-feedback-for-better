@@ -1,5 +1,4 @@
-Chapter 8: Future of AI in Writing Education
-============================================
+
 
 As AI technologies continue to advance, they are poised to transform the field of writing education. In this chapter, we will explore emerging trends in the use of AI in writing education, potential challenges and opportunities, and strategies for preparing for the future.
 

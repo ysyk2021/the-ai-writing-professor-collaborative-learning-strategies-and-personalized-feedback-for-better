@@ -1,5 +1,4 @@
-Team-based Projects
-==================================================================
+
 
 Collaborative learning strategies can enhance the writing education experience by encouraging students to work together and learn from each other. One effective way to incorporate collaborative learning into writing education is through team-based projects. In this chapter, we will explore how team-based projects can improve writing outcomes.
 

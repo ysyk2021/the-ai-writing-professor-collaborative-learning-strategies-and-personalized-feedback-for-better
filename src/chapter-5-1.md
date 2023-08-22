@@ -1,5 +1,4 @@
-Grammar and Style Checking
-==============================================================================
+
 
 AI technologies are transforming the way we approach writing education, providing new tools and resources to support students' learning and development. One of the most significant applications of AI in writing education is grammar and style checking. In this chapter, we will explore how AI-powered tools can assist students with identifying and correcting grammatical errors and improving the overall readability of their writing.
 

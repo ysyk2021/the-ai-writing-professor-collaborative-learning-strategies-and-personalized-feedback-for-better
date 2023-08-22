@@ -1,5 +1,4 @@
-Historical Overview of AI in Writing Education
-=================================================================================================
+
 
 AI has been used to improve writing education for many years, and its evolution has had a significant impact on the field. In this chapter, we will provide a historical overview of AI in writing education.
 

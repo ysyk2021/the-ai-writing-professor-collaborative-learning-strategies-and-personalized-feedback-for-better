@@ -1,5 +1,4 @@
-Chapter 5: Applications of AI in Writing Education
-==================================================
+
 
 AI technologies are transforming the field of writing education, providing new tools and resources to support students' learning and development. In this chapter, we will explore some of the most significant applications of AI in writing education, including grammar and style checking, idea generation and organization, and content analysis and optimization.
 
