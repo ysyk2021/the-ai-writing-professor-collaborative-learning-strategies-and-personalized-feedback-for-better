@@ -1,5 +1,4 @@
 
-
 Peer review processes are an important aspect of writing education, enabling students to learn from each other and work together to achieve common goals. In this chapter, we will explore how peer review processes can be used in conjunction with AI-powered tools to improve writing outcomes.
 
 The Benefits of Peer Review Processes

@@ -1,5 +1,4 @@
 
-
 AI-powered writing tools have become increasingly popular in writing education, offering a range of benefits to students and educators. In this chapter, we will explore how AI works in writing education.
 
 Natural Language Processing (NLP)

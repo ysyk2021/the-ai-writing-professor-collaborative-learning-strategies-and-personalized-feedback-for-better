@@ -1,5 +1,4 @@
 
-
 In this book, we have explored the benefits of AI-powered writing tools in writing education and how they can enhance personalized learning and improve writing outcomes. We have also discussed collaborative learning strategies and the importance of personalized feedback in the writing process.
 
 The Benefits of AI in Writing Education

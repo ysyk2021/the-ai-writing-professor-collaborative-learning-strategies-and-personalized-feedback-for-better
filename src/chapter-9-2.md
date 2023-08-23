@@ -1,5 +1,4 @@
 
-
 Collaborative learning strategies can enhance the writing education experience by encouraging students to work together and learn from each other. One effective way to incorporate collaborative learning into writing education is through group writing exercises. In this chapter, we will explore how group writing exercises can improve writing outcomes.
 
 Benefits of Group Writing Exercises

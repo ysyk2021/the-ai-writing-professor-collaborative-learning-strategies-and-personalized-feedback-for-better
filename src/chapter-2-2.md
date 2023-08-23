@@ -1,5 +1,4 @@
 
-
 AI has become an increasingly important tool in writing education, offering a range of applications and benefits. In this chapter, we will explore the different types of AI used in writing education.
 
 Grammar and Spelling Correction
@@ -31,5 +30,4 @@ Conclusion
 ----------
 
 The integration of AI into writing education offers a range of applications and benefits, including grammar and spelling correction, automated feedback, natural language processing, machine learning, and deep learning. By embracing these different types of AI, institutions and educators can create a more effective and engaging learning experience for students.
-
 

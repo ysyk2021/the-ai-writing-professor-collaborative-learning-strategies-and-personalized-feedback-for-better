@@ -1,5 +1,4 @@
 
-
 As AI technologies continue to advance, they are transforming the field of writing education. However, managing AI in writing education requires careful consideration to ensure that it is used in a responsible and ethical manner. In this chapter, we will explore some best practices for managing AI in writing education.
 
 Data Management

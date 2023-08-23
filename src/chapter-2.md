@@ -1,5 +1,4 @@
 
-
 AI technologies are transforming the field of writing education, providing new tools and resources to support students' learning and development. In this chapter, we will explore what AI is, its historical overview in writing education, types of AI in writing education, and how it works.
 
 Historical Overview of AI in Writing Education
