@@ -8,3 +8,7 @@ In this book, we will explore how AI technology can be used to provide personali
 Whether you are a student looking to improve your academic writing skills, a professional seeking to enhance your communication abilities, or an entrepreneur looking to develop persuasive marketing content, this book is an essential resource for anyone who wants to improve their writing outcomes. By combining the latest AI technology with proven educational techniques, The AI Writing Professor offers a unique approach to writing improvement that can help you achieve greater success in your personal and professional endeavors.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
